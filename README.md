@@ -1,6 +1,6 @@
 # Data Preprocessing Section with the state-of-the-art tools
 
-### This is homework 1 for ISA5810 Data Mining 2024 course Lab 1
+### This is Lecture version for ISA5810 Data Mining 2024 course Lab 1
 
 ## Table of Contents
 1. Data Source
@@ -14,7 +14,7 @@
    - 3.1 Converting Dictionary into Pandas dataframe
      - Import the helpers module in data_mining_helpers folder
      - Adding the category label (integer form) in the table
-   - 3.2 Familiarizing yourself with the Data
+   - 3.2 Familiarizing the Data
      
 4. Data Mining using Pandas
  - 4.1 Dealing with Missing Values
